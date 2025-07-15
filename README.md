@@ -1,6 +1,6 @@
 ## Hello, World! 👋
 
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/roddomin/roddomin/blob/main/README.pt-br.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/roddomin/roddomin/blob/main/README-pt-br.md)
 
 Software Engineer, passionate about technology since childhood. I started my passion for computing at 14 years old, when I installed Linux on my machine for the first time, the rest is history!
 I currently have a degree in Computer Science and 7 years of experience.
