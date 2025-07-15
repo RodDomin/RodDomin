@@ -1,6 +1,6 @@
 ## Olá, Mundo! 👋
 
-[![en](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/roddomin/roddomin/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/roddomin/roddomin/blob/main/README.md)
 
 
 Engenheiro de Software, apaixonado por tecnologia desde a infância. Iniciei minha paixão por computação aos 14 anos de idade, quando instalei Linux na minha máquina pela primeira vez, o resto é história!
